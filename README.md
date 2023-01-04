@@ -1,9 +1,9 @@
 👋 こんにちは, @FanaticPond3462 です。<br>
 ![](https://komarev.com/ghpvc/?username=FanaticPond3462&style=for-the-badge)<br>
 [![FanaticPond3462's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanaticPond3462&theme=transparent&show_icons=true)]()<br>
-[![FanaticPond3462's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FanaticPond3462&theme=transparent)]()
+[![FanaticPond3462's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FanaticPond3462&theme=github_dark)]()
 
-##今いろいろしているレポジトリ
+## 今いろいろしているレポジトリ
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FanaticPond3462&repo=tsukuyomichan-talksoft&theme=transparent)](https://github.com/FanaticPond3462/tsukuyomichan-talksoft)
 
 
